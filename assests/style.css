@@ -1,0 +1,30 @@
+h1{
+    color: darkcyan;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    
+}
+
+.darkcard{
+    background-color: cadetblue;
+    width: 500px;
+    text-align: center;
+}
+.lightcard{
+    background-color: lightseagreen;
+    width: 500px;
+    text-align: center;
+}
+
+.price{
+    background-color: darkcyan;
+}
+
+#dish-name{
+    color: white;
+}
+
+#body{
+    border-style: solid;
+    border-color: darkcyan;
+}
